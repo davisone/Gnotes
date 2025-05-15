@@ -32,10 +32,7 @@ Ce dépôt contient deux parties distinctes :
 
 ### 1. API Spring Boot
 
-Depuis un IDE Eclipse :
-```bash
-cd API/gnotes3.3(sec)
-mvn spring-boot:run
+Depuis un IDE Eclipse 
 
 ## 👤 Auteur
 
