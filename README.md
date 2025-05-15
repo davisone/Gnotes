@@ -36,3 +36,10 @@ Depuis un IDE Eclipse :
 ```bash
 cd API/gnotes3.3(sec)
 mvn spring-boot:run
+
+## 👤 Auteur
+
+**Evan Davison**  
+> Développeur web – [GitHub](https://github.com/davisone)
+👉 [Portfolio](https://evandavison.fr)
+
