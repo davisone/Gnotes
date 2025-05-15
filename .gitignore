@@ -1,0 +1,1 @@
+target/ *.class *.log .idea/ *.iml .DS_Store logs/ .env *.jar bin/ 
